@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Felftoolchain.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Felftoolchain?ref=badge_shield)
+
 The Elftoolchain Project
 ========================
 
@@ -124,3 +126,7 @@ website`_.
 .. Local Variables:
 .. mode: rst
 .. End:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Felftoolchain.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Felftoolchain?ref=badge_large)
